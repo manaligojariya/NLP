@@ -1,0 +1,28 @@
+								Natural Language Processing:(NLP)
+		
+								ASSESSMENT
+
+1) what do you understand by NLP?
+=> NLP stand for Natural Language Processing.
+   NLP have ability of a computer program to understand human language as it's spoken and write.
+   NLP is a branch of AI.
+   NLP use many products and services including:
+                                                voice-activated digital assistants.
+						Translation apps
+						Search engines
+  NLP powers many applications that use language, text translation, voice recognition ..
+
+
+2)What are the step involved in solving an NLP problem?
+=>1. Understand the problem.
+  2. Preprocess the data.
+  3. choose the model.
+  4. Train and evaluate the model.
+  5. Deploy and maintain the model.
+ 
+
+3) What is an ensemble method in NLP? with example.
+=>Ensemble method is a combination of several machine learning models in one problem.
+  Also known as weak learners.
+
+  EXAMPLE: Random forest, SVM, Adaboost, Xgboost etc...
