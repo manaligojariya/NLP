@@ -1,0 +1,25 @@
+Natural Language Processing:(NLP)
+		
+ASSESSMENT
+
+1) what do you understand by NLP?
+=> NLP stand for Natural Language Processing.
+  That allows computers to understand human language.
+  NLP is use in wide range of services, including search engines, chatbots..
+
+
+2)What are the step involved in solving an NLP problem?
+=>1. Understand the problem.
+  2. Preprocess the data.
+  3. choose the model.
+  4. Train and evaluate the model.
+  5. Deploy and maintain the model.
+
+
+
+3) What is an ensemble method in NLP? with example.
+=> Ensemble method create multiple models and combine them to solve it.
+   there are example:
+			gradient-boosted trees
+			random forests
+			svm
